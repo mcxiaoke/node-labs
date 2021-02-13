@@ -1,0 +1,21 @@
+{
+  "name": "node-labs",
+  "version": "1.0.0",
+  "description": "Nodejs Labs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^4.0.3",
+    "cheerio": "^1.0.0-rc.5",
+    "got": "^11.8.1",
+    "jsdom": "^16.4.0",
+    "json-server": "^0.16.3",
+    "utf-8-validate": "^5.0.4"
+  }
+}
