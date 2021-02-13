@@ -13,9 +13,13 @@
   "dependencies": {
     "bufferutil": "^4.0.3",
     "cheerio": "^1.0.0-rc.5",
+    "commander": "^7.0.0",
+    "exifr": "^6.0.0",
+    "exiftool-vendored": "^13.1.0",
     "got": "^11.8.1",
     "jsdom": "^16.4.0",
     "json-server": "^0.16.3",
-    "utf-8-validate": "^5.0.4"
+    "utf-8-validate": "^5.0.4",
+    "yargs": "^16.2.0"
   }
 }
